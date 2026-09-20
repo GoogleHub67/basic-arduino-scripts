@@ -10,7 +10,7 @@ The codebase is cleanly split into two core divisions to maintain industry stand
 * **`docs/`**: Holds helper manuals, error references, and architecture documentation.
 
 ```text
-my-arduino-basics/
+basic-arduino-scripts/
 ├── .gitignore
 ├── LICENSE
 ├── README.md
@@ -30,7 +30,7 @@ my-arduino-basics/
 1. **Install Software**: Download and install the latest [Arduino IDE](https://arduino.cc).
 2. **Download Repository**: Clone this workspace to your desktop machine:
    ```bash
-   git clone https://github.com
+   git clone https://github.com/GoogleHub67/basic-arduino-scripts
    ```
 3. **Open Sketches**: Open the `src/` directory, choose any target project folder, and double-click the inner `.ino` file to auto-launch the IDE environment workspace.
 4. **Fix Missing Dependencies**: If a script throws a compilation warning, consult the guide inside [docs/troubleshooting.md](docs/troubleshooting.md).
