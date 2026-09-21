@@ -12,6 +12,7 @@ The codebase is cleanly split into two core divisions to maintain industry stand
 ```text
 basic-arduino-scripts/
 ├── .gitignore
+├── .gitattributes
 ├── LICENSE
 ├── README.md
 ├── docs/
