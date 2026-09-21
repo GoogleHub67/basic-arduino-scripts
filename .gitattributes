@@ -1,1 +1,2 @@
 *.ino linguist-language=Arduino
+src/**/*.ino linguist-detectable=true
